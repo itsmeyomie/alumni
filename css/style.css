@@ -36,6 +36,11 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.float{
+  background-color: #ff00bf;
+  float:left;
+}
+
 *,
 *::before,
 *::after {
